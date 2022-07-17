@@ -58,14 +58,7 @@ public class Main {
     }
     public static void main(String[] args) {
 
-        /*
 
-
-        display both lists
-        remove 2 students
-        remove 1 teacher
-        display both lists
-         */
 
         //Creating 10 students
         Student haderGrader = new Student("hader", "grader", 12);
